@@ -1,0 +1,11 @@
+Cython==0.24
+glumpy==1.0.6
+numpy==1.10.4
+Pillow==3.2.0
+protobuf==3.0.0b2
+PyOpenGL==3.1.0
+six==1.10.0
+tensorflow==0.7.1
+triangle==20160203
+vispy==0.4.0
+wheel==0.29.0

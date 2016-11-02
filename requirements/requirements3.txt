@@ -1,0 +1,5 @@
+# Base requirements
+-r base.txt
+
+# Mac OS X, CPU only, Python 3.4 or 3.5:
+https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-0.10.0rc0-py3-none-any.whl

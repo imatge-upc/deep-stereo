@@ -1,0 +1,5 @@
+# Base requirements
+-r base.txt
+
+# TENSORFLOW: Mac OS X, CPU only, Python 2.7:
+https://storage.googleapis.com/tensorflow/mac/tensorflow-0.9.0-py2-none-any.whl

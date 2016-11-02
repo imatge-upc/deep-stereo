@@ -1,0 +1,7 @@
+numpy
+# python pil
+pillow
+# SciKit image github repository
+scikit-image
+scikit-learn==0.17.1
+
